@@ -27,7 +27,7 @@ Các bạn hãy làm bài đúng với năng lực của mình, không sử dụ
 
 **•	Password:** Đươc BTC thi cung cấp khi Contest bắt đầu.
 
-## III. 
+## III. Giao diện làm bài
 
 <p align="center">
   <img src="../resources/images/ak-contest-guid/main_screen.png" alt="Contest - Main screen" width=""/>
