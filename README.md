@@ -1,2 +1,2 @@
-# embedded-training-program
-A structured embedded systems training program covering algorithms, game programming on the AK Embedded Base Kit, Linux basics, and RTOS development from scratch.
+# Embedded Training Program
+A structured embedded systems training program covering: Practice solving algorithms every day, Game programming on the AK Embedded Base Kit, Linux basics, and RTOS development from scratch.
