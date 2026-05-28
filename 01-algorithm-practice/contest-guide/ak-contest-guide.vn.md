@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="../resources/images/ak_logo/ak-red.svg" alt="AK Logo" width="300"/>
+  <img src="../../resources/images/ak_logo/ak-red.svg" alt="AK Logo" width="300"/>
 </p>
 
 |[VN](ak-contest-guide.vn.md)|[EN](ak-contest-guide.en.md)|
@@ -16,7 +16,7 @@ Các bạn hãy làm bài đúng với năng lực của mình, không sử dụ
 ## II. Hướng dẫn đăng nhập
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/login_ak_contest.png" alt="Contest - Login screen" width="450"/>
+  <img src="../../resources/images/ak-contest-guid/login_ak_contest.png" alt="Contest - Login screen" width="450"/>
 </p>
 
 **Giao diện đăng nhập bao gồm:** phần Thông tin thí sinh và phần nhập Password 6 ký tự.
@@ -30,7 +30,7 @@ Các bạn hãy làm bài đúng với năng lực của mình, không sử dụ
 ## III. Giao diện làm bài
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/main_screen.png" alt="Contest - Main screen" width=""/>
+  <img src="../../resources/images/ak-contest-guid/main_screen.png" alt="Contest - Main screen" width=""/>
 </p>
 
 **Giao diện thi bao gồm:**
@@ -65,7 +65,7 @@ Các bạn hãy làm bài đúng với năng lực của mình, không sử dụ
 - Ban giám khảo sẽ xem xét phần tư duy và hướng giải để đánh giá thêm cho bài làm.
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/submit_idea.png" alt="Contest - Submit Idea" width=""/>
+  <img src="../../resources/images/ak-contest-guid/submit_idea.png" alt="Contest - Submit Idea" width=""/>
 </p>
 
 ## IV. Các quy định và Cảnh báo quan trọng
@@ -93,7 +93,7 @@ Bài thi sẽ tự động hiển thị màn hình kết thúc khi hết giờ l
 **(*)** Trường hợp giám khảo khởi động lại bài thì bạn có thể nhấn F5 để vào tham gia lại.
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/end_screen.png" alt="Contest - End Screen" width=""/>
+  <img src="../../resources/images/ak-contest-guid/end_screen.png" alt="Contest - End Screen" width=""/>
 </p>
 
 

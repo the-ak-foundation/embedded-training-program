@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="../../resources/images/ak_logo/ak-red.svg" alt="AK Logo" width="300"/>
+</p>
+
 # Algorithm Roadmap
 
 Practicing algorithms is the fastest way to improve thinking and problem-solving ability, and it is a continuous requirement throughout the entire internship process.

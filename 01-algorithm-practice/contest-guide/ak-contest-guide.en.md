@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="../resources/images/ak_logo/ak-red.svg" alt="AK Logo" width="300"/>
+  <img src="../../resources/images/ak_logo/ak-red.svg" alt="AK Logo" width="300"/>
 </p>
 
 |[VN](ak-contest-guide.vn.md)|[EN](ak-contest-guide.en.md)|
@@ -16,7 +16,7 @@ Please complete the test based on your actual ability, without using AI or askin
 ## II. Login Instructions
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/login_ak_contest.png" alt="Contest - Login screen" width="450"/>
+  <img src="../../resources/images/ak-contest-guid/login_ak_contest.png" alt="Contest - Login screen" width="450"/>
 </p>
 
 **The login screen includes:** the Candidate Information section and the 6-character Password field.
@@ -30,7 +30,7 @@ Please complete the test based on your actual ability, without using AI or askin
 ## III. Contest Interface
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/main_screen.png" alt="Contest - Main screen" width=""/>
+  <img src="../../resources/images/ak-contest-guid/main_screen.png" alt="Contest - Main screen" width=""/>
 </p>
 
 **The contest interface includes:**
@@ -65,7 +65,7 @@ Please complete the test based on your actual ability, without using AI or askin
 - The judges will review your thinking process and solution direction for additional evaluation.
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/submit_idea.png" alt="Contest - Submit Idea" width=""/>
+  <img src="../../resources/images/ak-contest-guid/submit_idea.png" alt="Contest - Submit Idea" width=""/>
 </p>
 
 ## IV. Rules and Important Warnings
@@ -94,5 +94,5 @@ The contest will automatically display the end screen when the time is over or w
 **(*)** If the judges restart the contest, you can press `F5` to rejoin.
 
 <p align="center">
-  <img src="../resources/images/ak-contest-guid/end_screen.png" alt="Contest - End Screen" width=""/>
+  <img src="../../resources/images/ak-contest-guid/end_screen.png" alt="Contest - End Screen" width=""/>
 </p>
