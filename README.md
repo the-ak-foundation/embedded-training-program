@@ -22,6 +22,10 @@ Consistent algorithm practice can significantly improve your thinking speed and 
 
 The objective of this course is to help you develop the mindset and skills required to become a product engineer.
 
+**The sample game:** [Archery-Game](https://github.com/the-ak-foundation/archery-game) 
+
+> The greatest value of this course is **not building a game itself, but developing a Product Engineering mindset**. Students learn how to transform an idea into a complete product—one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
+
 <img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-embedded-base-kit-version-3.jpg" width="480"/>
 
 Based on the AK Embedded Base Kit source code, you will develop and complete a game project while meeting the following requirements:
@@ -42,7 +46,3 @@ Over nearly 10 years of training Embedded interns and engineers, with more than 
 - Learn how to work with and extend a large existing codebase.
 - Understand the key elements required to build a high-quality product, rather than simply implementing features.
 - Develop the discipline, attention to detail, and perseverance needed to bring a product to completion.
-
-**The sample game:** [Archery-Game](https://github.com/the-ak-foundation/archery-game) 
-
-> The greatest value of this course is **not building a game itself, but developing a Product Engineering mindset**. Students learn how to transform an idea into a complete product—one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
