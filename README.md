@@ -22,7 +22,7 @@ Consistent algorithm practice can significantly improve your thinking speed and 
 
 The objective of this course is to help you develop the mindset and skills required to become a product engineer.
 
-[<img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-embedded-base-kit-version-3.jpg" width="480"/>](https://epcb.vn/products/ak-embedded-base-kit-lap-trinh-nhung-vi-dieu-khien-mcu)
+<img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-embedded-base-kit-version-3.jpg" width="480"/>
 
 Based on the AK Embedded Base Kit source code, you will develop and complete a game project while meeting the following requirements:
 - Deliver an engaging and enjoyable gameplay experience.
