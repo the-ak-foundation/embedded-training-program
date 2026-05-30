@@ -16,4 +16,4 @@ Consistent algorithm practice can significantly improve your thinking speed and 
 **Train Your Brain**
 - Recommended roadmap for Embedded Engineers: [algorithm_roadmap.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md)
 - AK Contest Guide: [ak-contest-guide.en.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/contest-guide/ak-contest-guide.en.md)
-> **Note:** Algorithm contests are organized exclusively as part of AK Foundation training programs. Participants can join these contests to practice under real competition conditions and benchmark their progress against other engineers.
+> **Note:** The contest platform is normally closed and is only opened during official AK Foundation training programs and competitions.
