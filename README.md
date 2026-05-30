@@ -24,7 +24,7 @@ The objective of this course is to help you develop the mindset and skills requi
 
 **The sample game:** [Archery-Game](https://github.com/the-ak-foundation/archery-game) 
 
-> The greatest value of this course is **not building a game itself, but developing a Product Engineering mindset**. Students learn how to transform an idea into a complete product—one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
+> The greatest value of this course is **not building a game itself, but developing a Product Engineering mindset**. Students learn how to transform an idea into a complete product-one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
 
 <img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-embedded-base-kit-version-3.jpg" width="480"/>
 
