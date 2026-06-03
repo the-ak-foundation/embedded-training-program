@@ -8,27 +8,27 @@ Think of your profile as a **journey journal** - documenting your learning and w
 
 Every update is also a chance to look back at your own journey, reassess your direction, and adjust where needed.
 
-Investing in your profile = investing in your career and future opportunities.
-> The competition for intern/job applications is intense — acceptance rates hover around 0.1 – 1%. A CV alone is rarely enough for employers to judge whether you have real potential.
+**Investing in your profile = investing in your career and future opportunities.**
+> The competition for intern/job applications is intense - acceptance rates hover around 0.1 – 1%. A CV alone is rarely enough for employers to judge whether you have real potential.
 
 **2. Profile-building principles**
 
 - **Personalize your content** - keep it concise and genuine, not polished like an ad. Templates are for reference only, not for copying.
 - **Limit AI-generated writing** - the reader wants to understand you, not a version produced by AI.
-- **Use real photos — no AI-generated images.
+- **Use real photos** - no AI-generated images.
 - **Write in English or bilingual** - opens up broader opportunities, including foreign companies in Vietnam.
 - **Show results, not just tasks** - specific numbers and impact are always more convincing than a list of duties.
 
 **3. How to create and maintain your profiles**
 
-> You may have the skills, but if you present them poorly — you're eliminated before you even get an interview.
+> You may have the skills, but if you present them poorly - you're eliminated before you even get an interview.
 During the embedded training course, each person is required to create **at least 3 profiles**, with each profile **cross-linking** to the others.
 
 **LinkedIn**
 
 - Use it to showcase your work history, professional skills, and notable learning activities.
-- **Stay active** — LinkedIn's algorithm favors active accounts, so your profile gets more visibility.
-- **Ask for recommendations** from mentors or seniors — a genuine review from a real person is worth far more than self-description.
+- **Stay active** - LinkedIn's algorithm favors active accounts, so your profile gets more visibility.
+- **Ask for recommendations** from mentors or seniors - a genuine review from a real person is worth far more than self-description.
 
 **GitHub**
 
