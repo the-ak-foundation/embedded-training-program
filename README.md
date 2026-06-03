@@ -6,7 +6,7 @@ A structured embedded systems training program covering: Practice solving algori
 
 Think of your profile as a **journey journal** - documenting your learning and work results in real time. Every time you complete something, update it immediately. Beyond the raw information, your writing captures your emotions and perspective at that moment - something nearly impossible to reconstruct later.
 
-Every update is also a chance to look back at your own journey, reassess your direction, and adjust where needed.
+Every update is also a chance to **look back at your own journey**, reassess your direction, and adjust where needed.
 
 **Investing in your profile = investing in your career and future opportunities.**
 > The competition for intern/job applications is intense - acceptance rates hover around 0.1 – 1%. A CV alone is rarely enough for employers to judge whether you have real potential.
