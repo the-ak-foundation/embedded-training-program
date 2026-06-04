@@ -4,7 +4,7 @@ The AK Foundation provides a structured embedded systems training program, cover
 
 - [Building your personal profile](#building-your-personal-profile)
 - [LeetCode daily](#leetcode)
-- [Game development on the AK base kit](#game)
+- [Game development on the AK Base Kit](#game)
 
 <details>
   <summary>1. Building your personal profile</summary>
