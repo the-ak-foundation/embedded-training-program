@@ -82,7 +82,7 @@ This course aims to help you develop the mindset and skills required to become a
 
 The greatest value of this course is **not building a game itself, but developing a product engineering mindset**. Students learn how to transform an idea into a complete product-one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
 
-![AK Base Kit](/resources/images/hardware/ak-base-kit.png)
+[<img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-mcu-kit-hw2-github-1280x640px.png" width="960"/>](<https://epcb.vn/products/ak-embedded-base-kit-lap-trinh-nhung-vi-dieu-khien-mcu>)
 
 Base on the AK Embedded Base Kit source code, you will develop and complete a game that meets the following requirements:
 
