@@ -6,7 +6,7 @@ The AK Foundation provides a structured embedded systems training program, cover
 2. [Practice LeetCode daily](#practice-leetcode-daily)
 3. [Game development on the AK base kit](#game-development-on-the-ak-base-kit)
 
-## Building your personal profile
+## 1. Building your personal profile
 
 ### Having a strong appearence
 
@@ -46,7 +46,7 @@ The AK Foundation provides a structured embedded systems training program, cover
 - [Zack Hoang](https://github.com/ZackHoang)
 - [Cao Trong Phuoc](https://github.com/caotrongphuoc)
 
-## Practice LeetCode daily
+## 2. Practice LeetCode daily
 
 ### Tips
 
@@ -74,7 +74,7 @@ The AK Foundation provides a structured embedded systems training program, cover
   > **Note:** The contest platform is normally closed and is only opened during the official AK Foundation training programs and competitions.
 >
 
-## Game development on the AK base kit
+## 3. Game development on the AK base kit
 
 ### Purpose
 
