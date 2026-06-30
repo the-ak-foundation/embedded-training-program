@@ -1,3 +1,9 @@
+<div align="center">
+  
+![Repo Traffic](https://komarev.com/ghpvc/?username=embedded-training-program&label=Repo+Traffic&color=blue&style=flat-square)
+
+</div>
+
 # Embedded training program
 
 The AK Foundation provides a structured embedded systems training program, covering topics such as:
