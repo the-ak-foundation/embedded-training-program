@@ -1,10 +1,12 @@
+# Embedded training program
+
+![Embedded training program banner image](./resources/images/readme/banner.jpg)
+
 <div align="center">
 
 ![Repo Traffic](https://komarev.com/ghpvc/?username=embedded-training-program&label=Repo+Traffic&color=blue&style=flat-square)
 
 </div>
-
-# Embedded training program
 
 |[**EN**](README.md)|**VN**|
 
@@ -13,6 +15,7 @@ AK Foundation cung cấp chương trình đào tạo Embedded có lộ trình v�
 1. [Xây dựng personal profile](#1-xây-dựng-personal-profile)
 2. [Luyện thuật toán với LeetCode](#2-luyện-thuật-toán-với-leetcode)
 3. [Phát triển game trên AK Base Kit](#3-phát-triển-game-trên-ak-base-kit)
+4. [Sử dụng MCP cho AI agent](#4-sử-dụng-mcp-cho-ai-agent)
 
 ## 1. Xây dựng personal profile
 
@@ -54,6 +57,7 @@ Tìm việc vốn đã khó; không có personal profile tốt sẽ càng khó h
 - **Zack Hoang**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZackHoang-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZackHoang/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZackHoang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-anh-hoang/)
+
 - **Cao Trong Phuoc**
 
 [![GitHub](https://img.shields.io/badge/GitHub-CaoTrongPhuoc-181717?style=flat&logo=github&logoColor=white)](https://github.com/caotrongphuoc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-CaoTrongPhuoc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-trong-phuoc/)
@@ -117,3 +121,34 @@ Trong gần 10 năm đào tạo Embedded intern và engineer, với hơn 1.000 h
 - Biết cách làm việc với và mở rộng một codebase lớn có sẵn.
 - Hiểu những yếu tố cốt lõi tạo nên sản phẩm chất lượng cao, thay vì chỉ triển khai tính năng.
 - Rèn tính kỷ luật, sự tỉ mỉ và kiên trì để đưa sản phẩm đến khi hoàn thành.
+
+## 4. Sử dụng MCP cho AI agent
+
+Ai từng giao cho AI agent viết code trong dự án lớn đều gặp cùng một kịch bản: agent sinh ra vài trăm dòng, chạy được nhưng không theo style và quy tắc của team. Diff dài quá, ta lười đọc, bấm accept. Lần sau agent viết nhiều hơn, ta lười hơn và nó lệch dần khỏi hướng mình muốn. Kết cục là mất niềm tin: test sơ qua thấy chạy đúng, nhưng trong lòng vẫn không chắc.
+
+Nguyên nhân thường không nằm ở model, mà ở chỗ agent không biết gì về thế giới của bạn. Những quy tắc cả team đều thuộc lòng lại chưa bao giờ được viết ra ở dạng agent đọc được. Vậy nên việc cần làm là xây cơ sở tri thức cho agent, bằng SKILLS, bằng MCP, hoặc cả hai.
+
+### MCP cung cấp gì cho agent
+
+MCP có thể triển khai online qua một domain, hoặc offline qua CLI chạy ngay trên máy. Dù cách nào, nó mang lại cho agent:
+
+- **Style của codebase**: cách đặt tên, cấu trúc thư mục, quy ước comment, format.
+- **Quy tắc phải tuân theo**: những gì team đã thống nhất, không cần bàn lại mỗi lần.
+- **Hướng dẫn triển khai**: công thức từng bước để thêm một module, một driver, một tính năng.
+- **Giới hạn và điều cấm**: thư mục read-only, API deprecated, chỗ agent không được tự ý sửa.
+- **Quy trình bắt buộc**: tự debug, nạp code chạy test thật, commit xong từng tính năng rồi mới đi tiếp.
+
+Cấu trúc gồm ba phần: **Tools** (hành động agent gọi được: build, nạp code, đọc log UART, chạy test), **Resources** (kho tri thức tra cứu) và Prompts (quy trình đóng gói sẵn).
+
+Trong đó **Tools** tạo khác biệt lớn nhất. Một agent tự build được, tự đọc được log lỗi, tự chạy được test là agent có vòng phản hồi khép kín, thay vì viết code rồi ngồi đoán là nó đúng.
+
+### Vì sao phải hiểu thật rõ framework
+
+Đây là phần không có đường tắt, và cũng là phần quyết định thành bại.
+
+MCP chỉ tốt đúng bằng tri thức bạn nạp vào. Muốn viết ra được quy tắc, bạn phải biết quy tắc nào thật sự quan trọng và quy tắc nào chỉ là thói quen. Muốn đặt giới hạn, bạn phải biết chỗ nào trong framework là nhạy cảm, sửa vào là hỏng. Muốn viết hướng dẫn triển khai, bạn phải nắm được con đường đúng để thêm một tính năng, chứ không phải con đường đầu tiên nghĩ ra.
+
+Nói cách khác, **xây MCP thực chất là quá trình biến tri thức ngầm của team thành tri thức tường minh**. Phần lớn công sức nằm ở đó, không nằm ở code của MCP server.
+Một ưu điểm khác: khi tri thức đã nằm sẵn trong MCP, Agent không cần "thông minh" để đoán ra style của bạn nữa, chỉ cần đọc và làm theo. Bạn có thể hạ xuống model rẻ hơn mà vẫn yên tâm về chất lượng.
+
+Đầu tư vào cơ sở tri thức, suy cho cùng, là đầu tư vào niềm tin. Khi đã tin được, bạn mới thật sự bắt đầu đi nhanh.
