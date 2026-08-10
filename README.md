@@ -1,24 +1,26 @@
 <div align="center">
-  
+
 ![Repo Traffic](https://komarev.com/ghpvc/?username=embedded-training-program&label=Repo+Traffic&color=blue&style=flat-square)
 
 </div>
 
 # Embedded training program
 
-The AK Foundation provides a structured embedded systems training program, covering topics such as:
+|**EN**|[**VN**](README_VN.md)|
 
-1. [Building your personal profile](#building-your-personal-profile)
-2. [Practice LeetCode daily](#practice-leetcode-daily)
-3. [Game development on the AK base kit](#game-development-on-the-ak-base-kit)
+The AK Foundation provides a structured Embedded training program with a clear roadmap, covering:
+
+1. [Building your personal profile](#1-building-your-personal-profile)
+2. [Practice algorithms with LeetCode](#2-practice-algorithms-with-leetcode)
+3. [Game development on the AK base kit](#3-game-development-on-the-ak-base-kit)
 
 ## 1. Building your personal profile
 
-### Having a strong appearence
+### Building a professional profile
 
-  Think of your profile as a diary - documenting your learning and work results throughout your journey. Every time you complete something, show it to the world! Your thoughts, experiences and enthusiasm are the things that will draw people in.
+  Think of your profile as a diary, documenting your learning and work results throughout your journey. Every time you complete something, share it with the world. Your thoughts, experiences, and enthusiasm are what draw people in.
 
-  Every post, every commit is a chance to **look back at your own journey**, reassess your direction, and adjust where needed. In the age of AI, recruiters starve to see real humans having a real online presence. By having a professional look that still speaks true to you, you boost your credibility.
+  Every post and every commit is a chance to **look back at your journey**, reassess your direction, and adjust when needed. In the age of AI, recruiters want to see real people with a genuine online presence. A professional profile that reflects your individuality helps you build trust.
 
 ### The principles
 
@@ -40,19 +42,24 @@ The AK Foundation provides a structured embedded systems training program, cover
 
 #### GitHub
 
-- **Be intentional about your pinned repos** - each repo pinned on your profile is a concrete showcase of your skills. Keep repo names short and include a clear `About` section.
-- **Documentation, documentation, documentation** - your `README.md` file should include **screenshots or demo videos** so viewers immediately understand what the project does.
-- **Pick one naming convention and stick to it!** - keep a consistent naming conventions across files, branches, and commits.
-- **Make commit messages meaningful** - `fix bug` or `update code` are not it.
-- **Commit regularly** - this shows a clear development history in your projects. Avoid commiting everything in one go.
-- **Pin your most important repos** - do also include a personal profile repo. That will often be the first thing recruiters set their eyes on.
+- **Select your pinned repositories** - every repository pinned on your profile is concrete evidence of your skills. Prioritize standout projects, use concise names, and write a clear `About` section.
+- **Write clear documentation** - your `README.md` should include **screenshots or demo videos** so viewers can quickly understand the project's purpose, how it works, and its results. This is very important.
+- **Follow consistent naming conventions** - choose one naming convention and use it consistently for files, branches, and source-code components.
+- **Write meaningful commit messages** - messages such as `fix bug` or `update code` are too vague. A commit message should clearly describe what you fixed or changed.
+- **Commit regularly** - commit each logical change to show a clear development history. Avoid bundling every change into a single commit.
+- **Pin your most important repositories** - pin the projects that best demonstrate your abilities, including a personal profile repository. This is often one of the first areas recruiters review.
 
 #### Examples
 
-- [Zack Hoang](https://github.com/ZackHoang)
-- [Cao Trong Phuoc](https://github.com/caotrongphuoc)
+- **Zack Hoang**
 
-## 2. Practice LeetCode daily
+[![GitHub](https://img.shields.io/badge/GitHub-ZackHoang-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZackHoang/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZackHoang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-anh-hoang/)
+
+- **Cao Trong Phuoc**
+
+[![GitHub](https://img.shields.io/badge/GitHub-CaoTrongPhuoc-181717?style=flat&logo=github&logoColor=white)](https://github.com/caotrongphuoc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-CaoTrongPhuoc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-trong-phuoc/)
+
+## 2. Practice algorithms with LeetCode
 
 ### Tips
 
@@ -77,6 +84,8 @@ The AK Foundation provides a structured embedded systems training program, cover
 - Recommended roadmap for Embedded Engineers: [algorithm_roadmap.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md)
 - AK Contest Guide: [ak-contest-guide.en.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/contest-guide/ak-contest-guide.en.md)
 
+Start with **Embedded Algorithm - Week 1**, which has already reached [![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BviewCount%257D%257D&query=%24.data.favoriteDetailV2.viewCount&label=Views&color=blue&logo=leetcode&cacheSeconds=300)](https://leetcode.com/problem-list/w5s9pzgi/) [![Saved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BcollectCount%257D%257D&query=%24.data.favoriteDetailV2.collectCount&label=Saved&color=brightgreen&logo=leetcode&cacheSeconds=300)](https://leetcode.com/problem-list/w5s9pzgi/). Start now on [LeetCode](https://leetcode.com/problem-list/w5s9pzgi/) · See the upcoming weeks in the [Algorithm roadmap](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md).
+
   > **Note:** The contest platform is normally closed and is only opened during the official AK Foundation training programs and competitions.
 >
 
@@ -88,7 +97,7 @@ This course aims to help you develop the mindset and skills required to become a
 
 The greatest value of this course is **not building a game itself, but developing a product engineering mindset**. Students learn how to transform an idea into a complete product-one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
 
-[<img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-mcu-kit-hw2-github-1280x640px.png" width="960"/>](<https://epcb.vn/products/ak-embedded-base-kit-lap-trinh-nhung-vi-dieu-khien-mcu>)
+[<img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-mcu-kit-hw2-github-1280x640px.png" width="960"/>](https://epcb.vn/products/ak-embedded-base-kit-lap-trinh-nhung-vi-dieu-khien-mcu)
 
 Base on the AK Embedded Base Kit source code, you will develop and complete a game that meets the following requirements:
 
