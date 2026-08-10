@@ -1,12 +1,11 @@
 # Embedded training program
-
-![Embedded training program banner image](./resources/images/readme/banner.jpg)
-
 <div align="center">
 
 ![Repo Traffic](https://komarev.com/ghpvc/?username=embedded-training-program&label=Repo+Traffic&color=blue&style=flat-square)
 
 </div>
+
+![Embedded training program banner image](./resources/images/readme/ak-embedded-tranning-program-1280-640-px-en.png)
 
 |**EN**|[**VN**](README_VN.md)|
 
