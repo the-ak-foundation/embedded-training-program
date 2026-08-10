@@ -1,3 +1,6 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/6b83750e-7f7a-4b02-8f71-f1c5f61aca42" />
+
+
 <div align="center">
   
 ![Repo Traffic](https://komarev.com/ghpvc/?username=embedded-training-program&label=Repo+Traffic&color=blue&style=flat-square)
