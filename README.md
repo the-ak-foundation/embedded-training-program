@@ -110,3 +110,29 @@ Over nearly 10 years of training Embedded interns and engineers, with more than 
 - Learn how to work with and extend a large existing codebase.
 - Understand the key elements required to build a high-quality product, rather than simply implementing features.
 - Develop the discipline, attention to detail, and perseverance needed to bring a product to completion.
+
+## 4. Agentic development using MCP
+
+Perhaps most of us as developers all face this same scenario: we begin introducing AI agents into our codebase, they generate a couple hundreds of lines of code and what comes out does not at all follow our project's specifications, but we accept it anyway. We keep pretending that everything is fine but our gut feeling tells us something is not right.
+
+Lack of context is what keeps our agents from running the way we intended. Our agents has no understanding of our project's standards. They are things that, us, humans, might have internally agreed, are not externalized into forms that agents could understand. 
+
+### What MCP provides for agents
+
+There are various ways to initialize MCP and they all provide the same things:
+
+- **Convention**: how to name variables, folders, files, formatting rules, etc.
+- **Rules**: what our agents can and can not do in our codebase
+- **Workflow**: how agents should begin a new driver, module or feature
+
+AK Foundation has an in-house, ready to use, MCP server that will speed up learners' development time, with 3 parts:
+
+- **Tools**: agents' permitted actions
+- **Resources**: this could include external documentation for agents' reference
+- **Prompts**: repeated, standardized prompts within our project
+
+Tools are what makes agents shine. An agent that has a clear reasoning cycle outperforms one that could only guess a project's internal working.
+
+### Understanding the framework
+
+MCP is only as good as our input quality. If we want to use MCP effectively, we must understand what our project needs and how to best document those standards to communicate with our agents. With a clearly documented MCP server, we could comfortably scale up or down with our AI model and our code quality is still guaranteed. 
