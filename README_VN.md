@@ -1,6 +1,6 @@
 # Embedded training program
 
-![Embedded training program banner image](./resources/images/readme/banner.jpg)
+![Embedded training program banner image](./resources/images/readme/ak-embedded-tranning-program-1280-640-px-en.png)
 
 <div align="center">
 
