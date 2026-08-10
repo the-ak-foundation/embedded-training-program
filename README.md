@@ -128,6 +128,8 @@ Perhaps most of us as developers all face this same scenario: we begin introduci
 
 Lack of context is what keeps our agents from running the way we intended. Our agents has no understanding of our project's standards. They are things that, us, humans, might have internally agreed, are not externalized into forms that agents could understand.
 
+![Agentic development using MCP Banner](./resources/images/readme/ak-active-kernel-documentation-mcp-server-1280-640-px-en.png)
+
 ### What MCP provides for agents
 
 There are various ways to initialize MCP and they all provide the same things:
@@ -146,4 +148,4 @@ Tools are what makes agents shine. An agent that has a clear reasoning cycle out
 
 ### Understanding the framework
 
-MCP is only as good as our input quality. If we want to use MCP effectively, we must understand what our project needs and how to best document those standards to communicate with our agents. With a clearly documented MCP server, we could comfortably scale up or down with our AI model and our code quality is still guaranteed.
+MCP is only as good as our input quality. If we want to use MCP effectively, we must understand what our project needs and how to best document those standards to communicate with our agents. **With a clearly documented MCP server, we could comfortably scale up or down with our AI model and our code quality is still guaranteed.**
