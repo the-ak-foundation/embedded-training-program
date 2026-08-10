@@ -1,151 +1,153 @@
 # Embedded training program
+
+![Embedded training program banner image](./resources/images/readme/ak-embedded-tranning-program-1280-640-px-en.png)
+
 <div align="center">
 
 ![Repo Traffic](https://komarev.com/ghpvc/?username=embedded-training-program&label=Repo+Traffic&color=blue&style=flat-square)
 
 </div>
 
-![Embedded training program banner image](./resources/images/readme/ak-embedded-tranning-program-1280-640-px-en.png)
+|[**EN**](README_EN.md)|**VN**|
 
-|**EN**|[**VN**](README_VN.md)|
+AK Foundation cung cấp chương trình đào tạo Embedded có lộ trình và cấu trúc, bao gồm các nội dung:
 
-The AK Foundation provides a structured Embedded training program with a clear roadmap, covering:
+1. [Xây dựng personal profile](#1-xây-dựng-personal-profile)
+2. [Luyện thuật toán với LeetCode](#2-luyện-thuật-toán-với-leetcode)
+3. [Phát triển game trên AK Base Kit](#3-phát-triển-game-trên-ak-base-kit)
+4. [Xây dựng cơ sở tri thức MCP cho AI Agent](#4-xây-dựng-cơ-sở-tri-thức-mcp-cho-ai-agent)
 
-1. [Build your personal profile](#1-build-your-personal-profile)
-2. [Practice LeetCode daily](#2-practice-leetcode-daily)
-3. [AK base kit game development](#3-ak-base-kit-game-development)
-4. [Build a MCP knowledge base for AI agent](#4-build-a-mcp-knowledge-base-for-ai-agent)
+## 1. Xây dựng personal profile
 
-## 1. Build your personal profile
+### Xây dựng profile chuyên nghiệp
 
-### Building a professional profile
+Hãy xem profile như một cuốn nhật ký, ghi lại quá trình học tập và kết quả công việc. Mỗi khi hoàn thành điều gì đó, hãy chia sẻ nó với mọi người. Suy nghĩ, trải nghiệm và sự nhiệt huyết của bạn là những điều thu hút người xem.
 
-  Think of your profile as a diary, documenting your learning and work results throughout your journey. Every time you complete something, share it with the world. Your thoughts, experiences, and enthusiasm are what draw people in.
+Mỗi bài đăng và mỗi commit là cơ hội để **nhìn lại hành trình của chính mình**, đánh giá lại định hướng và điều chỉnh khi cần. Trong thời đại AI, nhà tuyển dụng muốn thấy một con người thật với sự hiện diện trực tuyến thật. Một profile chuyên nghiệp, mang đậm dấu ấn cá nhân sẽ giúp bạn tạo dựng sự tin tưởng.
 
-  Every post and every commit is a chance to **look back at your journey**, reassess your direction, and adjust when needed. In the age of AI, recruiters want to see real people with a genuine online presence. A professional profile that reflects your individuality helps you build trust.
+### Nguyên tắc
 
-### The principles
+- **Hãy tạo dấu ấn riêng** - ngắn gọn và chân thật, không trau chuốt như quảng cáo. Template chỉ để tham khảo, không phải để sao chép.
+- **Ít AI hơn, nhiều bản thân hơn** - người đọc muốn hiểu về bạn, không phải nội dung chung chung do AI tạo ra.
+- **Dùng ảnh thật** - không cần nói nhiều thêm.
+- **Đăng bài bằng nhiều ngôn ngữ** - mở ra nhiều cơ hội hơn, bao gồm các công ty nước ngoài tại Việt Nam.
+- **Thể hiện kết quả, không chỉ công việc đã làm** - số liệu và tác động cụ thể luôn thuyết phục hơn danh sách nhiệm vụ.
 
-- **Make it unique** - keep it concise and genuine, not polished like an ad. Templates are for references only, not for copying.
-- **Less AI, more you** - the reader wants to understand you, not a whatever's produced by AI.
-- **Use real photos** - need I say more?
-- **Post in a variety of languages** - opens up broader opportunities, including foreign companies in Vietnam.
-- **Show results, not just tasks** - specific numbers and impact are always more convincing than a list of duties.
+### Tạo và duy trì hồ sơ
 
-### Creating and maintaining your profile
-
-  Job searching is hard, but not having a strong look will only make it harder. During this training course, each student is required to create **at least 3 profiles**, with each profile **links** to the others.
+Tìm việc vốn đã khó; không có personal profile tốt sẽ càng khó hơn. Trong khóa đào tạo này, mỗi học viên cần tạo **ít nhất 3 profile**, và các profile phải **liên kết** với nhau.
 
 #### LinkedIn
 
-- **Show yourself** - show your work history, professional skills, and notable learning activities.
-- **Stay active** - LinkedIn's algorithm favors active accounts, the more you active you are, the higher the chance you'll be seen.
-- **Ask for referrals** - that could be from mentors or seniors - a genuine review from a real person is worth far more than a self-description.
+- **Thể hiện bản thân** - trình bày kinh nghiệm làm việc, kỹ năng chuyên môn và các hoạt động học tập nổi bật.
+- **Duy trì hoạt động** - thuật toán LinkedIn ưu tiên tài khoản hoạt động; bạn càng hoạt động, cơ hội được nhìn thấy càng cao.
+- **Xin lời giới thiệu** - từ mentor hoặc anh chị đi trước. Một nhận xét chân thành từ người thật có giá trị hơn nhiều so với tự mô tả.
 
 #### GitHub
 
-- **Select your pinned repositories** - every repository pinned on your profile is concrete evidence of your skills. Prioritize standout projects, use concise names, and write a clear `About` section.
-- **Write clear documentation** - your `README.md` should include **screenshots or demo videos** so viewers can quickly understand the project's purpose, how it works, and its results. This is very important.
-- **Follow consistent naming conventions** - choose one naming convention and use it consistently for files, branches, and source-code components.
-- **Write meaningful commit messages** - messages such as `fix bug` or `update code` are too vague. A commit message should clearly describe what you fixed or changed.
-- **Commit regularly** - commit each logical change to show a clear development history. Avoid bundling every change into a single commit.
-- **Pin your most important repositories** - pin the projects that best demonstrate your abilities, including a personal profile repository. This is often one of the first areas recruiters review.
+- **Select your pinned repositories** - mỗi repository được ghim trên trang cá nhân là một minh chứng cụ thể cho kỹ năng của bạn. Hãy ưu tiên những dự án nổi bật, đặt tên ngắn gọn và viết phần mô tả (`About`) rõ ràng.
+- **Write clear documentation** - file `README.md` nên có `ảnh chụp màn hình hoặc video demo` để người xem nhanh chóng hiểu được mục tiêu, cách hoạt động và kết quả của dự án. Đây là phần rất quan trọng.
+- **Follow consistent naming conventions** - chọn một quy ước đặt tên và áp dụng nhất quán cho file, branch và các thành phần trong source code.
+- **Write meaningful commit messages** - nội dung như `fix bug` hoặc `update code` quá chung chung. `Commit message` nên nói rõ bạn đã sửa hoặc thay đổi điều gì.
+- **Commit regularly** - commit theo từng thay đổi hợp lý để thể hiện rõ quá trình phát triển của dự án. Tránh dồn toàn bộ thay đổi vào một commit duy nhất.
+- **Pin your most important repositories** - ghim những dự án thể hiện tốt nhất năng lực của bạn, bao gồm cả personal profile repository. Đây thường là một trong những khu vực đầu tiên nhà tuyển dụng xem.
 
-#### Examples
+#### Personal profile examples
 
-- **Zack Hoang**
+| Name | GitHub | LinkedIn |
+| --- | --- | --- |
+| Zack Hoang | [![GitHub](https://img.shields.io/badge/GitHub-ZackHoang-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZackHoang/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZackHoang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-anh-hoang/) |
+| Cao Trong Phuoc | [![GitHub](https://img.shields.io/badge/GitHub-CaoTrongPhuoc-181717?style=flat&logo=github&logoColor=white)](https://github.com/caotrongphuoc/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-CaoTrongPhuoc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-trong-phuoc/) |
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZackHoang-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZackHoang/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZackHoang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-anh-hoang/)
+## 2. Luyện thuật toán với LeetCode
 
-- **Cao Trong Phuoc**
+### Mẹo
 
-[![GitHub](https://img.shields.io/badge/GitHub-CaoTrongPhuoc-181717?style=flat&logo=github&logoColor=white)](https://github.com/caotrongphuoc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-CaoTrongPhuoc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-trong-phuoc/)
+- **Luyện tập hằng ngày** - cố gắng giải ít nhất một bài mỗi ngày, rồi dần nâng độ khó.
+- **Đồng bộ bài nộp lên GitHub** - xem hướng dẫn: [How to sync LeetCode submissions to GitHub](https://github.com/caotrongphuoc/algorithms/blob/embedded-algorithm/how-to-submit-code-from-LeetCode-to-GitHub.md).
 
-## 2. Practice LeetCode daily
+### Vì sao điều này quan trọng
 
-### Tips
+Trong thời đại AI, công nghệ phát triển rất nhanh. Khả năng học và thích nghi nhanh là điều thiết yếu với mọi kỹ sư. Kỹ năng LeetCode không phải lúc nào cũng được dùng hằng ngày, nhưng khả năng giải quyết vấn đề nhanh và lập luận chặt chẽ luôn cần thiết.
 
-- **Practice daily** - try to commit to at least one problem everyday and slowly build yourself up to harder problems.
-- **Sync your submissions to a GitHub repo** - here's a guide: [How to sync LeetCode submissions to GitHub](https://github.com/caotrongphuoc/algorithms/blob/embedded-algorithm/how-to-submit-code-from-LeetCode-to-GitHub.md)
+### LeetCode giúp bạn
 
-### Why it matters
+- Cải thiện khả năng đọc hiểu và tiếp thu thông tin.
+- Rèn luyện tư duy logic và giải quyết vấn đề.
+- Giữ não bộ được thử thách, vượt ra ngoài những công việc lặp lại hằng ngày.
+- Chuẩn bị cho các vòng phỏng vấn kỹ thuật tại những công ty công nghệ hàng đầu.
 
-  In the AI era, technology evolves rapidly. The ability to learn and adapt quickly is essential for every engineer. While LeetCode skills alone are not always needed in a day to day basis, the ability to solve problems fast and reason it through will always be essential.
-
-### LeetCode helps you
-
-- Improve reading comprehension and information absorption.
-- Strengthen problem-solving and logical thinking.
-- Keep your brain challenged beyond repetitive daily work.
-- Prepare for technical interviews at top technology companies.
-
-  Consistent LeetCode practices can significantly improve your thinking speed and problem-solving efficiency.
+Luyện LeetCode đều đặn có thể cải thiện đáng kể tốc độ tư duy và hiệu quả giải quyết vấn đề.
 
 ### Resources
 
-- Recommended roadmap for Embedded Engineers: [algorithm_roadmap.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md)
-- AK Contest Guide: [ak-contest-guide.en.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/contest-guide/ak-contest-guide.en.md)
+- Lộ trình đề xuất cho Embedded Engineer: [algorithm_roadmap.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md)
+- Hướng dẫn AK Contest: [ak-contest-guide.en.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/contest-guide/ak-contest-guide.en.md)
 
-Start with **Embedded Algorithm - Week 1**, which has already reached [![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2FLeetCode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BviewCount%257D%257D&query=%24.data.favoriteDetailV2.viewCount&label=Views&color=blue&logo=LeetCode&cacheSeconds=300)](https://LeetCode.com/problem-list/w5s9pzgi/) [![Saved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2FLeetCode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BcollectCount%257D%257D&query=%24.data.favoriteDetailV2.collectCount&label=Saved&color=brightgreen&logo=LeetCode&cacheSeconds=300)](https://LeetCode.com/problem-list/w5s9pzgi/). Start now on [LeetCode](https://LeetCode.com/problem-list/w5s9pzgi/) · See the upcoming weeks in the [Algorithm roadmap](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md).
+Hãy bắt đầu với **Embedded Algorithm - Week 1**, hiện đã có [![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BviewCount%257D%257D&query=%24.data.favoriteDetailV2.viewCount&label=Views&color=blue&logo=leetcode&cacheSeconds=300)](https://leetcode.com/problem-list/w5s9pzgi/) [![Saved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BcollectCount%257D%257D&query=%24.data.favoriteDetailV2.collectCount&label=Saved&color=brightgreen&logo=leetcode&cacheSeconds=300)](https://leetcode.com/problem-list/w5s9pzgi/). Bắt đầu ngay trên [LeetCode](https://leetcode.com/problem-list/w5s9pzgi/)· Xem lộ trình các week tiếp theo tại [Algorithm roadmap](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md).
 
-  > **Note:** The contest platform is normally closed and is only opened during the official AK Foundation training programs and competitions.
->
+> **Lưu ý:** Nền tảng contest thường đóng và chỉ được mở trong các chương trình đào tạo, cuộc thi chính thức của AK Foundation.
 
-## 3. AK base kit game development
+## 3. Phát triển game trên AK Base Kit
 
-### Purpose
+### Mục đích
 
-This course aims to help you develop the mindset and skills required to become a product engineer. Here is a [sample game](https://github.com/the-ak-foundation/archery-game)
+Khóa học này giúp bạn phát triển tư duy và kỹ năng cần thiết để trở thành product engineer. Xem [sample game](https://github.com/the-ak-foundation/archery-game).
 
-The greatest value of this course is **not building a game itself, but developing a product engineering mindset**. Students learn how to transform an idea into a complete product-one that delivers a great user experience, maintains high code quality, and is supported by clear documentation. This is the key difference between someone who can write code and an engineer who can build products.
+Giá trị lớn nhất của khóa học **không phải là làm game**, mà là phát triển tư duy kỹ sư sản phẩm. Học viên học cách biến một ý tưởng thành sản phẩm hoàn chỉnh: mang lại trải nghiệm người dùng tốt, giữ chất lượng mã nguồn cao và có tài liệu rõ ràng. Đây là điểm khác biệt giữa người biết viết code và kỹ sư có thể xây dựng sản phẩm.
 
-[![AK base kit](./resources/images/readme/ak-base-kit.png)](https://epcb.vn/products/ak-embedded-base-kit-lap-trinh-nhung-vi-dieu-khien-mcu)
+[<img src="https://github.com/the-ak-foundation/ak-base-kit-stm32l151/blob/main/hardware/images/ak-mcu-kit-hw2-github-1280x640px.png" width="960"/>](https://epcb.vn/products/ak-embedded-base-kit-lap-trinh-nhung-vi-dieu-khien-mcu)
 
-Base on the AK Embedded Base Kit source code, you will develop and complete a game that meets the following requirements:
+Dựa trên mã nguồn AK Embedded Base Kit, bạn sẽ phát triển và hoàn thiện một game đáp ứng các yêu cầu:
 
-- Deliver an engaging gameplay experience.
-- Write clean, concise, and maintainable code.
-- Create clear design documentation that is consistent with the source code.
-- Complete a software from concept to a fully usable application.
+- Mang lại trải nghiệm chơi hấp dẫn.
+- Viết mã nguồn sạch, ngắn gọn và dễ bảo trì.
+- Tạo tài liệu thiết kế rõ ràng, nhất quán với mã nguồn.
+- Hoàn thiện phần mềm từ ý tưởng đến ứng dụng có thể sử dụng.
 
-In practice, delivering a product that meets 100% of its requirements is extremely challenging. Many engineers can make a product function correctly, but often fall short in areas such as user experience, code quality, and documentation.
+Trong thực tế, việc cung cấp sản phẩm đáp ứng 100% yêu cầu rất khó. Nhiều kỹ sư có thể làm sản phẩm hoạt động đúng, nhưng thường chưa đạt về trải nghiệm người dùng, chất lượng mã nguồn và tài liệu.
 
-Through this course, you will learn that a great product does not just work. It must also be easy to use, maintainable, and ready for future development.
+Qua khóa học, bạn sẽ hiểu rằng một sản phẩm tốt không chỉ hoạt động. Nó còn phải dễ dùng, dễ bảo trì và sẵn sàng để phát triển trong tương lai.
 
-Over nearly 10 years of training Embedded interns and engineers, with more than 1,000 students participating in our programs, only a handful have been able to complete 100% of the requirements. Most students typically achieve around 60–80% of the expected outcomes.
+Trong gần 10 năm đào tạo Embedded intern và engineer, với hơn 1.000 học viên tham gia, chỉ một số ít có thể hoàn thành 100% yêu cầu. Phần lớn học viên thường đạt khoảng 60–80% kết quả mong đợi.
 
-### Upon completing this course, you will be able to
+### Sau khi hoàn thành khóa học, bạn có thể
 
-- Understand the resource limitations of embedded systems and learn how to maximize application performance.
-- Gain experience delivering a complete project with a meaningful level of complexity.
-- Learn how to work with and extend a large existing codebase.
-- Understand the key elements required to build a high-quality product, rather than simply implementing features.
-- Develop the discipline, attention to detail, and perseverance needed to bring a product to completion.
+- Hiểu giới hạn tài nguyên của hệ thống nhúng và cách tối ưu hiệu năng ứng dụng.
+- Có kinh nghiệm hoàn thiện một dự án có độ phức tạp thực tế.
+- Biết cách làm việc với và mở rộng một codebase lớn có sẵn.
+- Hiểu những yếu tố cốt lõi tạo nên sản phẩm chất lượng cao, thay vì chỉ triển khai tính năng.
+- Rèn tính kỷ luật, sự tỉ mỉ và kiên trì để đưa sản phẩm đến khi hoàn thành.
 
-## 4. Build a MCP knowledge base for AI agent
+## 4. Xây dựng cơ sở tri thức MCP cho AI Agent
 
-Perhaps most of us as developers all face this same scenario: we begin introducing AI agents into our codebase, they generate a couple hundreds of lines of code and what comes out does not at all follow our project's specifications, but we accept it anyway. We keep pretending that everything is fine but our gut feeling tells us something is not right.
+Ai từng giao cho AI agent viết code trong dự án lớn đều gặp cùng một kịch bản: agent sinh ra vài trăm dòng, chạy được nhưng không theo style và quy tắc của team. Diff dài quá, ta lười đọc, bấm accept. Lần sau agent viết nhiều hơn, ta lười hơn và nó lệch dần khỏi hướng mình muốn. Kết cục là mất niềm tin: test sơ qua thấy chạy đúng, nhưng trong lòng vẫn không chắc.
 
-Lack of context is what keeps our agents from running the way we intended. Our agents has no understanding of our project's standards. They are things that, us, humans, might have internally agreed, are not externalized into forms that agents could understand.
+Nguyên nhân thường không nằm ở model, mà ở chỗ agent không biết gì về thế giới của bạn. Những quy tắc cả team đều thuộc lòng lại chưa bao giờ được viết ra ở dạng agent đọc được. Vậy nên việc cần làm là xây cơ sở tri thức cho agent, bằng SKILLS, bằng MCP, hoặc cả hai.
 
-![Agentic development using MCP Banner](./resources/images/readme/ak-active-kernel-documentation-mcp-server-1280-640-px-en.png)
+![Sử dụng MCP cho AI agent](./resources/images/readme/ak-active-kernel-documentation-mcp-server-1280-640-px-vn.png)
 
-### What MCP provides for agents
+### MCP cung cấp gì cho agent
 
-There are various ways to initialize MCP and they all provide the same things:
+MCP có thể triển khai online qua một domain, hoặc offline qua CLI chạy ngay trên máy. Dù cách nào, nó mang lại cho agent:
 
-- **Convention**: how to name variables, folders, files, formatting rules, etc.
-- **Rules**: what our agents can and can not do in our codebase
-- **Workflow**: how agents should begin a new driver, module or feature
+- **Style của codebase**: cách đặt tên, cấu trúc thư mục, quy ước comment, format.
+- **Quy tắc phải tuân theo**: những gì team đã thống nhất, không cần bàn lại mỗi lần.
+- **Hướng dẫn triển khai**: công thức từng bước để thêm một module, một driver, một tính năng.
+- **Giới hạn và điều cấm**: thư mục read-only, API deprecated, chỗ agent không được tự ý sửa.
+- **Quy trình bắt buộc**: tự debug, nạp code chạy test thật, commit xong từng tính năng rồi mới đi tiếp.
 
-AK Foundation has an in-house, ready to use, MCP server that will speed up learners' development time, with 3 parts:
+Cấu trúc gồm ba phần: **Tools** (hành động agent gọi được: build, nạp code, đọc log UART, chạy test), **Resources** (kho tri thức tra cứu) và Prompts (quy trình đóng gói sẵn).
 
-- **Tools**: agents' permitted actions
-- **Resources**: this could include external documentation for agents' reference
-- **Prompts**: repeated, standardized prompts within our project
+Trong đó **Tools** tạo khác biệt lớn nhất. Một agent tự build được, tự đọc được log lỗi, tự chạy được test là agent có vòng phản hồi khép kín, thay vì viết code rồi ngồi đoán là nó đúng.
 
-Tools are what makes agents shine. An agent that has a clear reasoning cycle outperforms one that could only guess a project's internal working.
+### Vì sao phải hiểu thật rõ framework
 
-### Understanding the framework
+Đây là phần không có đường tắt, và cũng là phần quyết định thành bại.
 
-MCP is only as good as our input quality. If we want to use MCP effectively, we must understand what our project needs and how to best document those standards to communicate with our agents. **With a clearly documented MCP server, we could comfortably scale up or down with our AI model and our code quality is still guaranteed.**
+MCP chỉ tốt đúng bằng tri thức bạn nạp vào. Muốn viết ra được quy tắc, bạn phải biết quy tắc nào thật sự quan trọng và quy tắc nào chỉ là thói quen. Muốn đặt giới hạn, bạn phải biết chỗ nào trong framework là nhạy cảm, sửa vào là hỏng. Muốn viết hướng dẫn triển khai, bạn phải nắm được con đường đúng để thêm một tính năng, chứ không phải con đường đầu tiên nghĩ ra.
+
+Nói cách khác, **xây MCP thực chất là quá trình biến tri thức ngầm của team thành tri thức tường minh**. Phần lớn công sức nằm ở đó, không nằm ở code của MCP server.
+Một ưu điểm khác: khi tri thức đã nằm sẵn trong MCP, Agent không cần "thông minh" để đoán ra style của bạn nữa, chỉ cần đọc và làm theo. Bạn có thể hạ xuống model rẻ hơn mà vẫn yên tâm về chất lượng.
+
+**Đầu tư vào cơ sở tri thức, suy cho cùng, là đầu tư vào niềm tin. Khi đã tin được, bạn mới thật sự bắt đầu đi nhanh.**
