@@ -16,7 +16,7 @@ The AK Foundation provides a structured embedded systems training program, cover
 3. [AK base kit game development](#ak-base-kit-game-development)
 4. [Agentic development using MCP](#agentic-development-using-mcp)
 
-## 1. Build your personal profile
+## Build your personal profile
 
 ### Having a strong appearence
 
@@ -56,7 +56,7 @@ The AK Foundation provides a structured embedded systems training program, cover
 - [Zack Hoang](https://github.com/ZackHoang)
 - [Cao Trong Phuoc](https://github.com/caotrongphuoc)
 
-## 2. Daily Leetcode practice
+## Daily Leetcode practice
 
 ### Tips
 
@@ -84,7 +84,7 @@ The AK Foundation provides a structured embedded systems training program, cover
   > **Note:** The contest platform is normally closed and is only opened during the official AK Foundation training programs and competitions.
 >
 
-## 3. AK base kit game development
+## AK base kit game development
 
 ### Purpose
 
@@ -115,7 +115,7 @@ Over nearly 10 years of training Embedded interns and engineers, with more than 
 - Understand the key elements required to build a high-quality product, rather than simply implementing features.
 - Develop the discipline, attention to detail, and perseverance needed to bring a product to completion.
 
-## 4. Agentic development using MCP
+## Agentic development using MCP
 
 Perhaps most of us as developers all face this same scenario: we begin introducing AI agents into our codebase, they generate a couple hundreds of lines of code and what comes out does not at all follow our project's specifications, but we accept it anyway. We keep pretending that everything is fine but our gut feeling tells us something is not right.
 
