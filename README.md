@@ -14,7 +14,7 @@ The AK Foundation provides a structured Embedded training program with a clear r
 1. [Build your personal profile](#1-build-your-personal-profile)
 2. [Practice LeetCode daily](#2-practice-leetcode-daily)
 3. [AK base kit game development](#3-ak-base-kit-game-development)
-4. [Agentic development using MCP](#4-agentic-development-using-mcp)
+4. [Build a MCP knowledge base for AI agent](#4-build-a-mcp-knowledge-base-for-ai-agent)
 
 ## 1. Build your personal profile
 
@@ -122,7 +122,7 @@ Over nearly 10 years of training Embedded interns and engineers, with more than 
 - Understand the key elements required to build a high-quality product, rather than simply implementing features.
 - Develop the discipline, attention to detail, and perseverance needed to bring a product to completion.
 
-## 4. Agentic development using MCP
+## 4. Build a MCP knowledge base for AI agent
 
 Perhaps most of us as developers all face this same scenario: we begin introducing AI agents into our codebase, they generate a couple hundreds of lines of code and what comes out does not at all follow our project's specifications, but we accept it anyway. We keep pretending that everything is fine but our gut feeling tells us something is not right.
 
