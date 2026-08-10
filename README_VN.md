@@ -15,7 +15,7 @@ AK Foundation cung cấp chương trình đào tạo Embedded có lộ trình v�
 1. [Xây dựng personal profile](#1-xây-dựng-personal-profile)
 2. [Luyện thuật toán với LeetCode](#2-luyện-thuật-toán-với-leetcode)
 3. [Phát triển game trên AK Base Kit](#3-phát-triển-game-trên-ak-base-kit)
-4. [Sử dụng MCP cho AI agent](#4-sử-dụng-mcp-cho-ai-agent)
+4. [Xây dựng cơ sở tri thức MCP cho AI Agent](#4-xây-dựng-cơ-sở-tri-thức-mcp-cho-ai-agent)
 
 ## 1. Xây dựng personal profile
 
@@ -122,11 +122,13 @@ Trong gần 10 năm đào tạo Embedded intern và engineer, với hơn 1.000 h
 - Hiểu những yếu tố cốt lõi tạo nên sản phẩm chất lượng cao, thay vì chỉ triển khai tính năng.
 - Rèn tính kỷ luật, sự tỉ mỉ và kiên trì để đưa sản phẩm đến khi hoàn thành.
 
-## 4. Sử dụng MCP cho AI agent
+## 4. Xây dựng cơ sở tri thức MCP cho AI Agent
 
 Ai từng giao cho AI agent viết code trong dự án lớn đều gặp cùng một kịch bản: agent sinh ra vài trăm dòng, chạy được nhưng không theo style và quy tắc của team. Diff dài quá, ta lười đọc, bấm accept. Lần sau agent viết nhiều hơn, ta lười hơn và nó lệch dần khỏi hướng mình muốn. Kết cục là mất niềm tin: test sơ qua thấy chạy đúng, nhưng trong lòng vẫn không chắc.
 
 Nguyên nhân thường không nằm ở model, mà ở chỗ agent không biết gì về thế giới của bạn. Những quy tắc cả team đều thuộc lòng lại chưa bao giờ được viết ra ở dạng agent đọc được. Vậy nên việc cần làm là xây cơ sở tri thức cho agent, bằng SKILLS, bằng MCP, hoặc cả hai.
+
+![Sử dụng MCP cho AI agent](./resources/images/readme/ak-active-kernel-documentation-mcp-server-1280-640-px-vn.png)
 
 ### MCP cung cấp gì cho agent
 
@@ -151,4 +153,4 @@ MCP chỉ tốt đúng bằng tri thức bạn nạp vào. Muốn viết ra đư
 Nói cách khác, **xây MCP thực chất là quá trình biến tri thức ngầm của team thành tri thức tường minh**. Phần lớn công sức nằm ở đó, không nằm ở code của MCP server.
 Một ưu điểm khác: khi tri thức đã nằm sẵn trong MCP, Agent không cần "thông minh" để đoán ra style của bạn nữa, chỉ cần đọc và làm theo. Bạn có thể hạ xuống model rẻ hơn mà vẫn yên tâm về chất lượng.
 
-Đầu tư vào cơ sở tri thức, suy cho cùng, là đầu tư vào niềm tin. Khi đã tin được, bạn mới thật sự bắt đầu đi nhanh.
+**Đầu tư vào cơ sở tri thức, suy cho cùng, là đầu tư vào niềm tin. Khi đã tin được, bạn mới thật sự bắt đầu đi nhanh.**
