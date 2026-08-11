@@ -82,7 +82,7 @@ Luyện LeetCode đều đặn có thể cải thiện đáng kể tốc độ t
 ### Resources
 
 - Lộ trình đề xuất cho Embedded Engineer: [algorithm_roadmap.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md)
-- Hướng dẫn AK Contest: [ak-contest-guide.en.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/contest-guide/ak-contest-guide.vn.md)
+- Hướng dẫn AK Contest: [ak-contest-guide.vn.md](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/contest-guide/ak-contest-guide.vn.md)
 
 Hãy bắt đầu với **Embedded Algorithm - Week 1**, hiện đã có [![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BviewCount%257D%257D&query=%24.data.favoriteDetailV2.viewCount&label=Views&color=blue&logo=leetcode&cacheSeconds=300)](https://leetcode.com/problem-list/w5s9pzgi/) [![Saved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257BfavoriteDetailV2%2528favoriteSlug%253A%2522w5s9pzgi%2522%2529%257BcollectCount%257D%257D&query=%24.data.favoriteDetailV2.collectCount&label=Saved&color=brightgreen&logo=leetcode&cacheSeconds=300)](https://leetcode.com/problem-list/w5s9pzgi/). Bắt đầu ngay trên [LeetCode](https://leetcode.com/problem-list/w5s9pzgi/)· Xem lộ trình các week tiếp theo tại [Algorithm roadmap](https://github.com/the-ak-foundation/embedded-training-program/blob/main/01-algorithm-practice/roadmap/algorithm_roadmap.md).
 
