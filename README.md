@@ -10,7 +10,7 @@
 
 |[**EN**](README_EN.md)|**VN**|
 
-AK Foundation cung cấp chương trình đào tạo Embedded có lộ trình và cấu trúc, bao gồm các nội dung:
+AK Foundation cung cấp chương trình đào tạo Embedded có lộ trình - cấu trúc, bao gồm các nội dung:
 
 1. [Xây dựng personal profile](#1-xây-dựng-personal-profile)
 2. [Luyện thuật toán với LeetCode](#2-luyện-thuật-toán-với-leetcode)
@@ -30,12 +30,14 @@ Mỗi bài đăng và mỗi commit là cơ hội để **nhìn lại hành trìn
 - **Hãy tạo dấu ấn riêng** - ngắn gọn và chân thật, không trau chuốt như quảng cáo. Template chỉ để tham khảo, không phải để sao chép.
 - **Ít AI hơn, nhiều bản thân hơn** - người đọc muốn hiểu về bạn, không phải nội dung chung chung do AI tạo ra.
 - **Dùng ảnh thật** - không cần nói nhiều thêm.
-- **Đăng bài bằng nhiều ngôn ngữ** - mở ra nhiều cơ hội hơn, bao gồm các công ty nước ngoài tại Việt Nam.
-- **Thể hiện kết quả, không chỉ công việc đã làm** - số liệu và tác động cụ thể luôn thuyết phục hơn danh sách nhiệm vụ.
+- **Nên viết bài bằng tiếng Anh** - mở ra nhiều cơ hội hơn, bao gồm các công ty nước ngoài tại Việt Nam.
+- **Thể hiện kết quả, không chỉ công việc đã làm** - số liệu và tác động cụ thể luôn thuyết phục hơn việc liệt kê các việc đã làm.
 
 ### Tạo và duy trì hồ sơ
 
-Tìm việc vốn đã khó; không có personal profile tốt sẽ càng khó hơn. Trong khóa đào tạo này, mỗi học viên cần tạo **ít nhất 3 profile**, và các profile phải **liên kết** với nhau.
+Tìm việc vốn đã khó, không có personal profile tốt sẽ càng khó hơn. Trong khóa đào tạo này, mỗi học viên cần tạo **ít nhất 3 profile**, và các profile phải **liên kết** với nhau.
+
+Các bạn đọc thêm bài viết sau để hiểu tầm quan trọng của việc này: [Xây dựng profile - Xây dựng sự nghiệp](https://www.linkedin.com/pulse/building-your-profile-build-career-nguyen-trong-than-km7kc)
 
 #### LinkedIn
 
