@@ -125,6 +125,8 @@ Ai từng giao cho AI agent viết code trong dự án lớn đều gặp cùng 
 
 Nguyên nhân thường không nằm ở model, mà ở chỗ agent không biết gì về thế giới của bạn. Những quy tắc cả team đều thuộc lòng lại chưa bao giờ được viết ra ở dạng agent đọc được. Vậy nên việc cần làm là xây cơ sở tri thức cho agent, bằng SKILLS, bằng MCP, hoặc cả hai.
 
+[AK Active Kernel documentation MCP server](https://github.com/the-ak-foundation/mcp-docs-server)
+
 ![Sử dụng MCP cho AI agent](./resources/images/readme/ak-active-kernel-documentation-mcp-server-1280-640-px-vn.png)
 
 ### MCP cung cấp gì cho agent
