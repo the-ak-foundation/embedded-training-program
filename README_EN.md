@@ -126,6 +126,8 @@ Perhaps most of us as developers all face this same scenario: we begin introduci
 
 Lack of context is what keeps our agents from running the way we intended. Our agents has no understanding of our project's standards. They are things that, us, humans, might have internally agreed, are not externalized into forms that agents could understand.
 
+[AK Active Kernel documentation MCP server](https://github.com/the-ak-foundation/mcp-docs-server)
+
 ![Agentic development using MCP Banner](./resources/images/readme/ak-active-kernel-documentation-mcp-server-1280-640-px-en.png)
 
 ### What MCP provides for agents
